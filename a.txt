@@ -1,9 +1,5 @@
-<<<<<<< HEAD
-apples
-sweet oranges
-=======
 sour  chili with chicken apples
+sweet apples
 oranges
->>>>>>> github/master
 kiwis
 carrots
